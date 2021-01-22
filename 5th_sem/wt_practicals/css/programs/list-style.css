@@ -1,0 +1,19 @@
+ol {
+	list-style-type: upper-roman;
+	list-style-position: outside;
+}
+ul {
+	list-style-type: square;
+	list-style-position: inside;
+	/*put image url here for bullets*/
+	list-style-image: none;
+}
+
+dt {
+	font-weight: bold;
+	text-decoration: underline;
+}
+dd {
+	margin: 0;
+	padding: 0 0 0.5em 0;
+}
